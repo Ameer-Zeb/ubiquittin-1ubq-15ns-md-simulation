@@ -1,0 +1,29 @@
+1UBQ Molecular Dynamics Simulation
+Software and Environment
+
+Operating System:
+Ubuntu Linux
+
+Molecular Dynamics Software:
+GROMACS
+
+Force Field:
+OPLS-AA
+
+Protein:
+Ubiquitin (PDB ID: 1UBQ)
+
+Water Model:
+TIP3P
+
+Analysis:
+GROMACS analysis tools
+
+Plotting:
+Python
+NumPy
+Matplotlib
+JupyterLab
+
+Simulation:
+15 ns production MD
